@@ -4,3 +4,9 @@ D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRenta
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.csproj.CoreCompileInputs.cache
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.dll
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\bin\Debug\CarRentalSystem.Entity.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\bin\Debug\CarRentalSystem.Entity.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.pdb

@@ -12,3 +12,19 @@ D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRenta
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.dll
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.pdb
 D:\Microsoft Visual Studio\Car Rental System Project\CarRentalSystemApp\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.dll.config
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Exception.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Exception.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.BusinessLayer.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Entity.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\nunit.framework.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.BusinessLayer.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Entity.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\nunit.framework.xml
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\bin\Debug\CarRentalSystem.Util.dll.config
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\obj\Debug\CarRentalSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\obj\Debug\CarRentalSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\obj\Debug\CarRenta.5F13F130.Up2Date
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\obj\Debug\CarRentalSystem.Exception.dll
+C:\Users\HP\Desktop\Training\Technical\Project\CarRentalSystem\CarRentalSystem.Exception\obj\Debug\CarRentalSystem.Exception.pdb

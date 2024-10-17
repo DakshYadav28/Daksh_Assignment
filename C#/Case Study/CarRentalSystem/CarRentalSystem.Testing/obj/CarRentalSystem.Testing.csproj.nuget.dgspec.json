@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Testing\\CarRentalSystem.Testing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.BusinessLayer\\CarRentalSystem.BusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.BusinessLayer\\CarRentalSystem.BusinessLayer.csproj",
+        "projectName": "CarRentalSystem.BusinessLayer",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.BusinessLayer\\CarRentalSystem.BusinessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Entity\\CarRentalSystem.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Entity\\CarRentalSystem.Entity.csproj",
+        "projectName": "CarRentalSystem.Entity",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Entity\\CarRentalSystem.Entity.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Exception\\CarRentalSystem.Exceptions.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Exception\\CarRentalSystem.Exceptions.csproj",
+        "projectName": "CarRentalSystem.Exceptions",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Exception\\CarRentalSystem.Exceptions.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Testing\\CarRentalSystem.Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Testing\\CarRentalSystem.Testing.csproj",
+        "projectName": "CarRentalSystem.Testing",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Testing\\CarRentalSystem.Testing.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.BusinessLayer\\CarRentalSystem.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.BusinessLayer\\CarRentalSystem.BusinessLayer.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Entity\\CarRentalSystem.Entity.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Entity\\CarRentalSystem.Entity.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Exception\\CarRentalSystem.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Exception\\CarRentalSystem.Exceptions.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.UI\\CarRentalSystem.UI.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.UI\\CarRentalSystem.UI.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Util\\CarRentalSystem.Util.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Util\\CarRentalSystem.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.UI\\CarRentalSystem.UI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.UI\\CarRentalSystem.UI.csproj",
+        "projectName": "CarRentalSystem.UI",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.UI\\CarRentalSystem.UI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Util\\CarRentalSystem.Util.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Util\\CarRentalSystem.Util.csproj",
+        "projectName": "CarRentalSystem.Util",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\Technical\\Project\\CarRentalSystem\\CarRentalSystem.Util\\CarRentalSystem.Util.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
